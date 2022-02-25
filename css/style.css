@@ -6508,3 +6508,16 @@ a:focus {
 
 
 
+.info_logo h5{
+    color: white;
+    font-size: 2em;
+}
+.info_links h5{
+    color: white;
+}
+.info_insta h5{
+    color: white;
+}
+.info_contact h5{
+    color: white;
+}
