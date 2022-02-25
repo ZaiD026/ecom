@@ -5413,7 +5413,7 @@ body {
 }
 
 .heading_container h2::before {
-  content: url(../images/tulip.png);
+  content: url();
   position: absolute;
   top: 50%;
   left: -35px;
@@ -5575,7 +5575,7 @@ body {
 }
 .header_section{
   position: fixed;
-  z-index: 20;
+  z-index: 290;
   top: 0;
   right: 0;
   left:0;
@@ -5904,7 +5904,7 @@ a:focus {
   content: "";
   width: 125px;
   height: 140px;
-  background-image: url(../images/rose.png);
+  /* background-image: url(../images/rose.png); */
   background-size: cover;
 }
 
@@ -6331,7 +6331,7 @@ a:focus {
   left: 0;
   width: 239px;
   height: 217px;
-  background-image: url(../images/flower.png);
+  background-image: url(../images/Flower2.png);
   background-size: cover;
 }
 
